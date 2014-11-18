@@ -1,5 +1,6 @@
 postbot
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/thisisthechris/postbot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Python Script powering the Moby-Dick Big Read: http://www.mobydickbigread.com/
 
